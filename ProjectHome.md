@@ -1,0 +1,1 @@
+A good-enough browser/DOM environment, written in JavaScript, that (currently) runs on top of Rhino; capable of running JavaScript libraries like jQuery, Prototype, and MochiKit (at the very least).
